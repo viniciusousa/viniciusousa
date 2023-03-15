@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Vinicius Sousa 🖖 
 
-[![Website](https://img.shields.io/website?label=viniciusousa.com&style=for-the.badge&url=https://viniciusousa.github.io/portvinicius-web2.0)](https://viniciusousa.github.io/portvinicius-web2.0/)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-sousa-056310194/)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/viniciusousa)
+[![Website](https://img.shields.io/website?label=viniciusousa.com&style=for-the.badge&url=https://viniciusousa.github.io/portvinicius-web2.0)](https://viniciusousa.github.io/portvinicius-web2.0/)
 
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusousa&show_icons=true&theme=tokyonight)
